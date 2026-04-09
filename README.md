@@ -3,7 +3,7 @@
 ## About me
 Hi there, I'm Adrian!
 
-I'm a **Software Engineer and Game Developer** currently pursuing my Master's degree in Applied Computer Science (Game Technology) at the Lodz University of Technology. <br>
+I'm a Software Engineer and Game Developer currently pursuing my Master's degree in Applied Computer Science (Game Technology) at the Lodz University of Technology. <br>
 
 ## Tech stack
 
@@ -22,7 +22,7 @@ I'm a **Software Engineer and Game Developer** currently pursuing my Master's de
 
 <br>
 
-> Custom 3D game engine built from scratch in C++ and OpenGL. Features a custom A* pathfinding system and powered the indie game "Orpheus" showcased at ZTGK. It won the AMD's award.
+> Custom 3D game engine built from scratch in C++ and OpenGL. Features a custom A* pathfinding system and powered the indie game "Orpheus" showcased at ZTGK. It won the AMD's award. <br>
 > Link to repository: https://github.com/HeadAech/dBengine-public?tab=readme-ov-file
 
 <img width="1802" height="932" alt="image" src="https://github.com/user-attachments/assets/6c2df299-5cf3-485b-81d1-115dc4fd331e" />
