@@ -1,4 +1,4 @@
-# Hello
+# Hello!
 
 ## About me
 Hi there, I'm Adrian!
@@ -14,7 +14,8 @@ I'm a Software Engineer and Game Developer currently pursuing my Master's degree
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
-> Procedural generation tool for Unreal Engine 5. Uses C++, Blueprints, and evolutionary algorithms to generate optimized, multi-level 3D road networks.
+
+Procedural generation tool for Unreal Engine 5. Uses C++, Blueprints, and evolutionary algorithms to generate optimized, multi-level 3D road networks.
 
 <div align="center">
   <img width="100%" alt="Procedural Road Generation" src="https://github.com/user-attachments/assets/82cf1cd2-74b6-4beb-be62-cbe0d225db27" />
@@ -22,8 +23,8 @@ I'm a Software Engineer and Game Developer currently pursuing my Master's degree
 
 <br>
 
-> Custom 3D game engine built from scratch in C++ and OpenGL. Features a custom A* pathfinding system and powered the indie game "Orpheus" showcased at ZTGK. It won the AMD's award. <br>
-> Link to repository: https://github.com/HeadAech/dBengine-public?tab=readme-ov-file
+Custom 3D game engine built from scratch in C++ and OpenGL. Features a custom A* pathfinding system built by me and powered the indie game "Orpheus" showcased at ZTGK competition. It won the AMD's award. <br>
+Link to repository: https://github.com/HeadAech/dBengine-public?tab=readme-ov-file
 
 <img width="1802" height="932" alt="image" src="https://github.com/user-attachments/assets/6c2df299-5cf3-485b-81d1-115dc4fd331e" />
 
